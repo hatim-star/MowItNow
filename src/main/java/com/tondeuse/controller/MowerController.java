@@ -1,7 +1,7 @@
 package com.tondeuse.controller;
 
 import com.tondeuse.model.*;
-import com.tondeuse.service.LawnMower;
+import com.tondeuse.model.LawnMower;
 import com.tondeuse.service.MowerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
